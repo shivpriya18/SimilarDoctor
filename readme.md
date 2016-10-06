@@ -3,7 +3,7 @@
   How to execute :-
     run the main file RelevantDoctors.java from an IDE or
 
-     need maven installed to for creating an executable jar
+     need maven installed for creating an executable jar
 
      execute -
      mvn compile
